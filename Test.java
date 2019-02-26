@@ -7,6 +7,6 @@ public class Test {
                                          iAmAReallyLongAndUglyJavaIdentifier));
     }
 
-    private static String hello = "Real hello12";
+    private static String hello = "Real hello13";
     private static String iAmAReallyLongAndUglyJavaIdentifier = "world";
 }
