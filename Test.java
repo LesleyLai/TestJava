@@ -8,5 +8,5 @@ public class Test {
     }
 
     private static String hello = "Real hello";
-    private static String iAmAReallyLongAndUglyJavaIdentifier = "world!!!";
+    private static String iAmAReallyLongAndUglyJavaIdentifier = "world!";
 }
